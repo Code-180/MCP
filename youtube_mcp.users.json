@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "68029211ebffe57b4261e363"
+  },
+  "email": "testiuser@one",
+  "gender": "Male",
+  "location": "kolkata",
+  "name": "Test User-1",
+  "phone": "91134567890"
+},
+{
+  "_id": {
+    "$oid": "680292a1ebffe57b4261e364"
+  },
+  "email": "testiuser@two",
+  "gender": "Female",
+  "location": "kolkata",
+  "name": "Test User-2",
+  "phone": "91134567890"
+},
+{
+  "_id": {
+    "$oid": "680292b1ebffe57b4261e365"
+  },
+  "email": "testiuser@three",
+  "gender": "Female",
+  "location": "UP",
+  "name": "Test User-3",
+  "phone": "91134567890"
+},
+{
+  "_id": {
+    "$oid": "680292c1ebffe57b4261e366"
+  },
+  "email": "testiuser@four",
+  "gender": "Female",
+  "location": "Patna",
+  "name": "Test User-4",
+  "phone": "91134567890"
+}]
